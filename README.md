@@ -1,0 +1,2 @@
+# initialcode
+intro to git
